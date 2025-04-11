@@ -1,0 +1,2 @@
+# pythonbitirmeprojesi
+python bitirme projem
